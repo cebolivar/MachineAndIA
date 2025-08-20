@@ -45,7 +45,8 @@ El agente aprende mediante la interacción con un entorno. Recibe recompensas o 
  - Sistemas de trading financiero
  - Control de tráfico inteligente
 
-## Referencias (APA 7)
+## Referencias
+
 Coursera. (2023). 3 tipos de machine learning que debes conocer. Recuperado de Coursera
 Telefónica Tech. (2021). Tipos de aprendizaje en Machine Learning. Recuperado de Telefonica Tech
 InteligenciaArtificial.io.. (2024). Tipos de Machine Learning y sus diferencias clave. Recuperado de inteligenciaartificial.io
